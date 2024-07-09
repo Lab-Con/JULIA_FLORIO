@@ -1,0 +1,144 @@
+ESTIMATES GERAL																																
+141	32																															
+	C1a1	C1a2	C1a3	C1a4	C1b1	C1b2	C1b3	C1b4	C1c1	C1c2	C1c3	C1c4	C2a 1 	C2a 2 	C2a 3 	C2a 4 	C2c1	C2c2	C2C3	C2c4	C3a1	C3a2	C3a3	C3a4	C3b1	C3b2	C3b3	C3b4	C3c1	C3c2	C3c3	C3c4
+APOIDEA sp1																							1		1							
+APOIDEA sp2			1															1	2	1												
+APOIDEA sp3														1	1					1												
+APOIDEA sp4							1							1																		
+APOIDEA sp5						1																										
+APHELINIDAE sp1										1													1		2							
+APHELINIDAE sp2																							1								1	
+APHELINIDAE sp3			1				2		2																							
+APHELINIDAE sp4										1																						
+APHELINIDAE sp5																				1												
+APHELINIDAE sp6			1																													
+BETHYLIDAE sp1																												1				
+BETHYLIDAE sp2																	1	1	1													
+BETHYLIDAE sp3	1	1												2																		
+BETHYLIDAE sp4						1																										
+BETHYLIDAE sp5								1																								
+BRACONIDAE sp1													1																			
+BRACONIDAE sp2																	2															
+BRACONIDAE sp3																				1												
+BRACONIDAE sp4																								1								
+BRACONIDAE sp5				2																				1								
+BRACONIDAE sp6												1																				
+BRACONIDAE sp7													1									1		1								
+BRACONIDAE sp8																								2								
+BRACONIDAE sp9																								1								
+BRACONIDAE sp10													1										2	1								
+BRACONIDAE sp11														2																		
+BRACONIDAE sp12														2																		
+BRACONIDAE sp13														1																		
+BRACONIDAE sp14														1																		
+BRACONIDAE sp15														1																		
+BRACONIDAE sp16														1																		
+BRACONIDAE sp17														1																		
+BRACONIDAE sp18														1																		
+BRACONIDAE sp19	2																															
+BRACONIDAE sp20			1		1																											
+CHALCIDIDAE sp1																	1															
+CHALCIDIDAE sp2																		1														
+CHALCIDIDAE sp3														1																		
+CERAPHRONIDAE sp1											2						1		2			1	2									
+CERAPHRONIDAE sp2																				1												
+CERAPHRONIDAE sp3																				1						1						
+CERAPHRONIDAE sp4		1																		1				1								
+CERAPHRONIDAE sp5																								1								
+DIAPRIIDAE sp1										1														1	1			1				
+DIAPRIIDAE sp2				1																1		1										
+DIAPRIIDAE sp3														1									1									
+DIAPRIIDAE sp4				1																												
+DIAPRIIDAE sp5			2	1																												
+DIAPRIIDAE sp6							1																									
+DIAPRIIDAE sp7							1																	1								
+DIAPRIIDAE sp8																								1								
+DRYNIDAE sp1									2																							
+DOLICHOPODIDAE sp1	2	20	22	17	21	17	11		18	19	4	11	31	26			10	25	14													
+ENCYRTIDAE sp1																																1
+ENCYRTIDAE sp2																					1		1									
+ENCYRTIDAE sp3											1		1							1					2							1
+ENCYRTIDAE sp4						1												1				1	1		1							
+ENCYRTIDAE sp5																					1											
+ENCYRTIDAE sp6										1	1										2	1	3									
+ENCYRTIDAE sp7													1																			
+ENCYRTIDAE sp8	1		1										1	1																		
+ENCYRTIDAE sp9		1																														
+ENCYRTIDAE sp10				1																												
+ENCYRTIDAE sp11				1																												
+EULOPHIDAE sp1																	2															
+EULOPHIDAE sp2																				1												
+EULOPHIDAE sp3		1											1																			
+EULOPHIDAE sp4																					1											
+EULOPHIDAE sp5					1																											
+EULOPHIDAE sp6							1																									
+EULOPHIDAE sp7								1																								
+EUPELMIDAE sp1																				1												
+EVANIIDAE sp1				1																												
+FIGITIDAE sp1				1	1								2	1			2		2	2		1	1	1								
+FIGITIDAE sp2																				1												
+FIGITIDAE sp3						1									1																	
+FIGITIDAE sp4								1																								
+FIGITIDAE sp5								1																								
+FORMICIDAE sp1																									3			1				
+FORMICIDAE sp2																										5					2	
+HALICTIDAE sp1																		1	1	5												1
+HALICTIDAE sp2																				1												
+HALICTIDAE sp3					2		1																									
+ICHNEUMONIDAE sp1																	1	1							1							
+ICHNEUMONIDAE sp2																			1													
+ICHNEUMONIDAE sp3														1																		
+ICHNEUMONIDAE sp4					1																											
+MEGASPILIDAE sp1																														1		
+MYMARIDAE sp1									1		1										1					1		1	1			
+MYMARIDAE sp2	1				1				1					3				1						1	1		1			1		
+MYMARIDAE sp3										1	1															1		1				2
+MYMARIDAE sp4																	1				1		1			1						
+MYMARIDAE sp5																		2	1													
+MYMARIDAE sp6																			2	3												
+MYMARIDAE sp7																			2													
+MYMARIDAE sp8	2	1											1						1													
+MYMARIDAE sp9		1		2									1	1																		
+MYMARIDAE sp10															1																	
+MYMARIDAE sp11				1	1																											
+PLATYGASTRIDAE sp1										1	3														2							
+PLATYGASTRIDAE sp2																																2
+PLATYGASTRIDAE sp3		2																														
+PLATYGASTRIDAE sp4					1																											
+PLATYGASTRIDAE sp5								1																								
+POMPILLIDAE sp1						1																										
+POMPILLIDAE sp2							1																									
+PROCTOTRUPIDAE sp1																															1	
+PROCTOTRUPIDAE sp2														1																		
+PTEROMALIDAE sp1													1																			1
+PTEROMALIDAE sp2													1																			
+PTEROMALIDAE sp3	1																															
+PTEROMALIDAE sp4		1																														
+PTEROMALIDAE sp5					1																											
+SCELIONIDAE sp1																					1		4									1
+SCELIONIDAE sp2																								1								
+SCELIONIDAE sp3		1		2																1												
+SCELIONIDAE sp4					1								1																			
+SCELIONIDAE sp5	1																															
+SCELIONIDAE sp6		3	2	1																				1								
+SCELIONIDAE sp7			1	1																												
+SCELIONIDAE sp8			1	3																												
+SCELIONIDAE sp9			1																													
+SCELIONIDAE sp10				1																												
+SCELIONIDAE sp11							1																									
+SCELIONIDAE sp12							1																									
+SCELIONIDAE sp13							1																									
+SCELIONIDAE sp14								1																1								
+SIGNIPHORIDAE sp 1		1		6														1														
+SIGNIPHORIDAE sp 2	1	1		1	1								2																			
+SIGNIPHORIDAE sp 3	5																															
+STEPHANOIDEA sp1																			1													
+TRICHOGRAMMATIDAE sp1										1	1														1			1		1		
+TRICHOGRAMMATIDAE sp2		2	1																				1				1	1				
+TRICHOGRAMMATIDAE sp3				1																							1					
+VESPIDAE sp1										1																				1		
+VESPIDAE sp2													2						1						1							
+VESPIDAE sp3																				1												
+VESPIDAE sp4																	1															
+VESPIDAE sp5					2																											
+VESPIDAE sp6					1	1																										
